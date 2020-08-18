@@ -1,0 +1,12 @@
+{
+    "name": "valmonts/calculator",
+    "description": "\"this demo package will do some calculations\"",
+    "authors": [
+        {
+            "name": "Val Vincent",
+            "email": "valvinzm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
